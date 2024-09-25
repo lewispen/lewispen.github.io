@@ -2,11 +2,3 @@ baseURL = 'https://example.org/'
 languageCode = 'en-gb'
 title = 'lewiswrites'
 theme = 'diary'
-
-[outputs]
-home = [ "RSS", "HTML"]
-
-[outputFormats]
-[outputFormats.RSS]
-mediatype = "application/rss"
-baseName = "lewiswrites/index"

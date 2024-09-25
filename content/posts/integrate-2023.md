@@ -18,7 +18,7 @@ Before attending I didn't quite realise how much I had been needing a push to le
 
 I had the pleasure of talking with Neno Crudele at Integrate, his talk felt like he was giving everyone a dressing down in regards to tightening our API security. Unveiling the dangers of how easily very bored people can exploit a company that does not keep track of what API's they have available to the public.
 
-![Neno and myself at Integrate 2023](../../static/images/NenoIntegrate2023.jpg)
+![Neno and myself at Integrate 2023](/images/NenoIntegrate2023.jpg)
 
 ### API Security
 

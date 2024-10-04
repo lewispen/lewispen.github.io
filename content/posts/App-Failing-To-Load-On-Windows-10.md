@@ -1,7 +1,7 @@
 +++
 title = 'App Failing to Load the second time on Windows 10'
-date = 2024-09-30T18:01:46+01:00
-draft = true
+date = 2024-10-04T16:10:46+01:00
+draft = false
 +++
 
 ### Background

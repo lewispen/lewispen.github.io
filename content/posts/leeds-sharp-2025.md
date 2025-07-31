@@ -14,7 +14,7 @@ Like most things, you get out of them what you put in, the after pub social is r
 
 A personal target of mine was so improve my public speaking skills, it came up in my mentoring at work and we set a goal to speak at the next event I could. Little did I know that John Staveley the organiser of the Leeds Sharp would mention doing a shorter presentation to myself the same week. I didn't turn the opportunity down and got right to writing.
 
-![Me Presenting at Leeds Sharp](/images/LeedsSharp2025.jpg)
+![Me Presenting at Leeds Sharp](/images/LeedsSharp2025.jpeg)
 
 ### Afterthoughts
 

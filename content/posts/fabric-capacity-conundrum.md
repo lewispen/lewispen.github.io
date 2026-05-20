@@ -29,7 +29,7 @@ One common approach is to run a single capacity and split its usage between Dev/
 
 ## Option B: Separate Capacities Per Environment
 
-The alternative is to run multiple capacities—typically Dev/Test/Prod so each environment has dedicated compute and isolation.
+The alternative is to run multiple capacities, typically Dev/Test/Prod so each environment has dedicated compute and isolation.
 
 **Why should I do this?**
 - Strong isolation: dev experiments don't drag down production
